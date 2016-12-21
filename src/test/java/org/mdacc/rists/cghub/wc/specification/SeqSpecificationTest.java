@@ -13,6 +13,8 @@ import org.junit.runner.RunWith;
 import org.mdacc.rists.cghub.ws.CgApplication;
 import org.mdacc.rists.cghub.ws.model.SeqTb;
 import org.mdacc.rists.cghub.ws.repository.SeqRepository;
+import org.mdacc.rists.cghub.ws.specification.SearchCriteria;
+import org.mdacc.rists.cghub.ws.specification.SeqSpecification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.data.jpa.domain.Specifications;

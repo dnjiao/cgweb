@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.mdacc.rists.cghub.wc.specification;
+package org.mdacc.rists.cghub.ws.specification;
 
 /**
  * @author djiao

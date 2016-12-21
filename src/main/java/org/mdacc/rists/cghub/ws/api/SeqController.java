@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.mdacc.rists.cghub.wc.specification.SeqSpecificationsBuilder;
 import org.mdacc.rists.cghub.ws.model.SeqTb;
 import org.mdacc.rists.cghub.ws.repository.SeqRepository;
 import org.mdacc.rists.cghub.ws.service.SeqService;
+import org.mdacc.rists.cghub.ws.specification.SeqSpecificationsBuilder;
 import org.mdacc.rists.cghub.ws.vo.SeqTbVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.domain.Specification;
